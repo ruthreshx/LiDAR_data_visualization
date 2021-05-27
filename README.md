@@ -14,7 +14,8 @@
 
 **3D view**
 
-![DBS_pic](https://user-images.githubusercontent.com/84854222/119775697-99ab6e00-bee1-11eb-81c4-af78b131eb71.png)
+![3Dview](https://user-images.githubusercontent.com/84854222/119781788-0bd38100-bee9-11eb-89b5-0bddef5c9c69.png)
+
 
 
 **---------------Data Visualization Libraries-------------**
@@ -22,7 +23,5 @@
 Matplotlib 
 
 PyQT 
-
-Vispy
 
 Mayavi
