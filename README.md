@@ -1,16 +1,5 @@
 **In this repositary we have implemented the Various view of data visualization with various library using LiDAR Data.**
 
-**Requirments**
-
-  1. Matplotlib
-  2. PyQT
-  3. Vispy
-  4. Mayavi
-  5. numpy
-  6. pykitti
-  7. OpenGl
-  8. pyqtgraph
-  9. CV2
 
 **--------------------------Views-------------------------**
 
@@ -49,4 +38,19 @@ Vispy
     Matplotlib                            0.2 sec (per frame) 
 
 
+    +------------+------------------------------+--------------------------------------+
+    | library    | Advantage                    | Disadvantage                         |
+    |  name      |                              |                                      |
+    +------------+------------------------------+--------------------------------------+
+    | matplotlib | Faster than all              | Don't have interactive view          |
+    |            |                              | (like 360 degree rotation)           |
+    +------------+------------------------------+--------------------------------------+
+    | mayavi     | Interactive view             | installation is difficult            |
+    +------------+------------------------------+--------------------------------------+
+    | vispy      | quite faster                 | Creating bounding boxes is difficult |
+    +------------+------------------------------+--------------------------------------+
+    | pyqt       | the object visulaization     | Don't have in-build save function    |
+    |            | is too clear when compare to | like matplotlib has plt.savefig.     |
+    |            | other lib.                   | there is no such save function       |
+    +------------+------------------------------+--------------------------------------+
 
