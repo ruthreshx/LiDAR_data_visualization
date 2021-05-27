@@ -33,10 +33,10 @@ Mayavi
 
 **Name of the Plotting Environment       and Timing (fps)**
   
-Vispy                                 1.466 sec (per frame)
+    Vispy                                 1.466 sec (per frame)
 
-Mayavi                                5 sec (per frame)
+    Mayavi                                5 sec (per frame)
 
-Matplotlib                            0.3sec (per frame) (Based on no of clusters)
+    Matplotlib                            0.3sec (per frame) (Based on no of clusters)
 
 
