@@ -1,5 +1,17 @@
 **In this repositary we have implemented the Various view of data visualization with various library using LiDAR Data.**
 
+**Requirments**
+
+  1. Matplotlib
+  2. PyQT
+  3. Vispy
+  4. Mayavi
+  5. numpy
+  6. pykitti
+  7. OpenGl
+  8. pyqtgraph
+  9. CV2
+
 **--------------------------Views-------------------------**
 
 **Front View**
@@ -16,18 +28,15 @@
 
 ![Mayavi](https://user-images.githubusercontent.com/84854222/119784876-44288e80-beec-11eb-9437-5b746277e4d3.png)
 
-
-
-
-**---------------Data Visualization Libraries-------------**
-
-Matplotlib 
-
 PyQT 
+![image](https://user-images.githubusercontent.com/84854222/119793584-59092000-bef4-11eb-843b-7ecbc761d3dd.png)
 
 Vispy
 
-Mayavi
+![image](https://user-images.githubusercontent.com/84854222/119793757-7f2ec000-bef4-11eb-9598-ffda941a3330.png)
+
+
+
 
 **We have ranked the  various visualization Libraries using LiDAR data**
 
@@ -38,5 +47,6 @@ Mayavi
     Mayavi                                1.2 sec (per frame)
 
     Matplotlib                            0.2 sec (per frame) 
+
 
 
