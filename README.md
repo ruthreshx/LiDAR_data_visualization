@@ -14,7 +14,8 @@
 
 **3D view**
 
-![3Dview](https://user-images.githubusercontent.com/84854222/119781788-0bd38100-bee9-11eb-89b5-0bddef5c9c69.png)
+![Mayavi](https://user-images.githubusercontent.com/84854222/119784876-44288e80-beec-11eb-9437-5b746277e4d3.png)
+
 
 
 
@@ -24,4 +25,18 @@ Matplotlib
 
 PyQT 
 
+Vispy
+
 Mayavi
+
+**We have ranked the  various visualization Libraries using LiDAR data**
+
+**Name of the Plotting Environment       and Timing (fps)**
+  
+Vispy                                 1.466 sec (per frame)
+
+Mayavi                                5 sec (per frame)
+
+Matplotlib                            0.3sec (per frame) (Based on no of clusters)
+
+
