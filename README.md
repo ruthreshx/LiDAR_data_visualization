@@ -1,14 +1,19 @@
-In this repositary we have implemented the Various view of data visualization using LiDAR Data.
+**In this repositary we have implemented the Various view of data visualization with various library using LiDAR Data.**
 
---------------------------Views-------------------------
+**--------------------------Views-------------------------**
 
----> Front View
----> Top View
----> 3D view
+Front View
 
----------------Data Visualization Libraries-------------
+Top View
 
-Matplotlib
+3D view
+
+**---------------Data Visualization Libraries-------------**
+
+Matplotlib 
+
 PyQT 
+
 Vispy
+
 Mayavi
