@@ -8,7 +8,7 @@ In this repositary we have implemented the Various view of data visualization us
 
 ---------------Data Visualization Libraries-------------
 
----> Matplotlib
----> PyQT 
----> Vispy
----> Mayavi
+Matplotlib
+PyQT 
+Vispy
+Mayavi
